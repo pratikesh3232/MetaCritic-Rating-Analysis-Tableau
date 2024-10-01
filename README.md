@@ -48,11 +48,3 @@ The project features multiple dashboards, each offering unique insights into the
 - The year **2000** had the highest average rating, making it a standout year in terms of movie quality.
 - A consistent increase in the number of movies released per decade from the **1970s** onward.
 
-## 💡 Future Enhancements
-- **Advanced Filters** for users to customize views based on director, genre, and movie duration.
-- **Sentiment Analysis** on movie reviews for deeper insights into public opinion.
-- **Integration with IMDb** for more comprehensive movie data.
-
----
-
-Feel free to customize this further according to your project specifics or focus areas!
