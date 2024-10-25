@@ -1,8 +1,5 @@
 # MetaCritic-Rating-Analysis-Tableau
-Here's a sample GitHub project description for your Tableau dashboard:
-
----
-
+-------------------------
 #  Movie Dataset Analysis with Tableau
 
 This project is a comprehensive analysis of over **16,000 movies** released between **1910 and 2024**, visualized through interactive **Tableau dashboards**. The dataset includes key information such as movie titles, release dates, genres, directors, writers, ratings, and the number of votes. The goal of this project is to extract insightful trends, explore key performance indicators (KPIs), and provide a clear understanding of the movie industry's evolution.
