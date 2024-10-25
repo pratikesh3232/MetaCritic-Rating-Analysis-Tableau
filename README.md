@@ -3,11 +3,11 @@ Here's a sample GitHub project description for your Tableau dashboard:
 
 ---
 
-# 🎬 Movie Dataset Analysis with Tableau
+#  Movie Dataset Analysis with Tableau
 
 This project is a comprehensive analysis of over **16,000 movies** released between **1910 and 2024**, visualized through interactive **Tableau dashboards**. The dataset includes key information such as movie titles, release dates, genres, directors, writers, ratings, and the number of votes. The goal of this project is to extract insightful trends, explore key performance indicators (KPIs), and provide a clear understanding of the movie industry's evolution.
 
-## 🚀 Key Features
+##  Key Features
 - **Total Movies Released:** Displays the total count of movies in the dataset.
 - **Average Movie Rating:** Shows the average rating of all movies based on **Metacritic** scores.
 - **Highest Rated Year:** Highlights the year with the highest average movie rating.
@@ -15,7 +15,7 @@ This project is a comprehensive analysis of over **16,000 movies** released betw
 - **Top Genres by Year:** Provides insights into the most popular genres over time.
 - **Heat Map for Genre Trends:** A visual representation of genre popularity by year.
 
-## 📊 Dashboards & Visuals
+##  Dashboards & Visuals
 The project features multiple dashboards, each offering unique insights into the movie dataset:
 1. **Key Metrics Dashboard:** A high-level overview showcasing total movies, average ratings, and the highest-rated year.
 2. **Movies Released Over Time:** A trend visualization of movie releases by decade and genre.
@@ -23,7 +23,7 @@ The project features multiple dashboards, each offering unique insights into the
 4. **Average Rating vs. Votes:** Shows the correlation between average ratings and the number of votes received by movies.
 5. **Genre Heatmap:** A heat map showing the rise and fall of various movie genres over decades.
 
-## 💾 Data Source
+##  Data Source
 - The dataset contains information on 16,000+ movies, including:
   - **Title**
   - **Release Date**
@@ -33,12 +33,12 @@ The project features multiple dashboards, each offering unique insights into the
   - **Directors/Writers**
   - **Duration**
 
-## 📁 Project Files
+##  Project Files
 - **Tableau Workbook (.twbx):** The complete workbook with all visualizations and dashboards.
 - **Datasets (.csv):** Contains the movie dataset used for analysis.
 - **Screenshots:** Sample visuals from the Tableau dashboard.
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - **Tableau Desktop Public Edition**
 - **Metacritic Dataset**
 - **Excel/CSV for Data Preprocessing**
