@@ -40,7 +40,7 @@ The project features multiple dashboards, each offering unique insights into the
 - **Metacritic Dataset**
 - **Excel/CSV for Data Preprocessing**
 
-## 📈 Insights & Outcomes
+##  Insights & Outcomes
 - Visual trends show that **Action** and **Drama** have consistently been the most popular genres over the decades.
 - The year **2000** had the highest average rating, making it a standout year in terms of movie quality.
 - A consistent increase in the number of movies released per decade from the **1970s** onward.
